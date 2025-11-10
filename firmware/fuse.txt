@@ -1,0 +1,2 @@
+set BOD level to 2.7V.
+other fuses can be left at the default value.

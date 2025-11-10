@@ -1,0 +1,48 @@
+﻿Personal Use License
+
+This license governs use of the accompanying software, hardware designs,
+documentation, and related files (“the Work”). By possessing, using, or
+building from the Work, you agree to the following terms:
+
+1. Permission
+
+You are granted a non-exclusive, worldwide, royalty-free license to:
+- Use the Work for personal, private purposes.
+- Build one or more physical or digital copies of devices or systems based on
+  the Work, for your own personal use only.
+- Modify the Work privately for your own use.
+
+2. Restrictions
+
+You may not:
+- Distribute, publish, or share the Work, in whole or in part, in any form
+  (including modified versions).
+- Sell, rent, lease, license, or otherwise commercially exploit the Work or any
+  derivative of it.
+- Manufacture or distribute any device, product, or service based on the Work
+  for others.
+- Remove or obscure any copyright or license notices.
+
+3. Ownership
+
+All rights not expressly granted herein remain with the copyright holder.
+This license does not transfer ownership or intellectual property rights.
+
+4. Termination
+
+This license terminates automatically if you violate any term. Upon
+termination, you must destroy all copies of the Work and any derivatives you
+have made.
+
+5. Warranty Disclaimer
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM USE OF THE WORK.
+
+6. Governing Law
+
+This license is intended to apply worldwide. In case of dispute, the applicable
+law shall be that of the jurisdiction where the copyright holder resides.
