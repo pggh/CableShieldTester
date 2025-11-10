@@ -18,6 +18,5 @@ More tests can be found [here](doc).
 
 Build instructions are in the [hardware directory](hardware).
 
-<!---
-Discus at the [EEVblog Forum](https://www.eevblog.com/forum/)
---->
+Discus at the [EEVblog Forum](https://www.eevblog.com/forum/projects/cableshieldtester-is-the-cable-shielded-or-not-(diy-project)/msg6097537/)
+
